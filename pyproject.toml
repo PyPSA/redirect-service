@@ -1,0 +1,10 @@
+[project]
+name = "redirect-service"
+version = "0.1.0"
+description = "Simple redirect service"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "sphinx==8.2.3",
+    "sphinx-reredirects==1.0.0",
+]
