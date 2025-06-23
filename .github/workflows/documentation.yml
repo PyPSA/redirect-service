@@ -15,7 +15,7 @@ jobs:
         uses: astral-sh/setup-uv@v5
       - name: Sphinx build
         run: |
-          uv run sphinx-build doc _build
+          uv run sphinx-build -b html . _build
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
