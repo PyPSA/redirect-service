@@ -19,5 +19,5 @@ html_static_path = []
 
 # -- Redirects configuration ------------------------------------------------
 redirects = {
-    "test-redirect/index": "https://google.com"
+    "report-bug/index": "https://github.com/PyPSA/PyPSA/issues/new?template=bug_report.yaml"
 }
