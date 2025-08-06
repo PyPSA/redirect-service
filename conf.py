@@ -19,5 +19,6 @@ html_static_path = []
 
 # -- Redirects configuration ------------------------------------------------
 redirects = {
-    "report-bug/index": "https://github.com/PyPSA/PyPSA/issues/new?template=bug_report.yaml"
+    "report-bug/index": "https://github.com/PyPSA/PyPSA/issues/new?template=bug_report.yaml",
+    "examples/carbon-management/index": "https://tubcloud.tu-berlin.de/s/3qZPGxW3r4HF9Hn/download?path=%2F&files=carbon-management.nc"
 }
