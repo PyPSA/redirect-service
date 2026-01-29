@@ -23,4 +23,5 @@ redirects = {
     "new-components-api/index": "https://docs.pypsa.org/latest/user-guide/components/#new-components-class-api",
     "options-params/index": "https://docs.pypsa.org/latest/user-guide/options/#parameters-options",
     "release-notes/index": "https://docs.pypsa.org/latest/release-notes/",
+    "discord/index": "https://discord.com/invite/AnuJBk23FU"
 }
