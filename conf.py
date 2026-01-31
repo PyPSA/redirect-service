@@ -23,5 +23,8 @@ redirects = {
     "new-components-api/index": "https://docs.pypsa.org/latest/user-guide/components/#new-components-class-api",
     "options-params/index": "https://docs.pypsa.org/latest/user-guide/options/#parameters-options",
     "release-notes/index": "https://docs.pypsa.org/latest/release-notes/",
-    "discord/index": "https://discord.com/invite/AnuJBk23FU"
+    "discord/index": "https://discord.com/invite/AnuJBk23FU",
+    "users/index": "https://docs.pypsa.org/latest/home/users/",
+    "stoch-opt/index": "https://docs.pypsa.org/latest/user-guide/optimization/stochastic/",
+    "v1/index": "https://docs.pypsa.org/latest/user-guide/v1-guide/",
 }
