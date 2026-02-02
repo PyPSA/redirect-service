@@ -27,4 +27,5 @@ redirects = {
     "users/index": "https://docs.pypsa.org/latest/home/users/",
     "stoch-opt/index": "https://docs.pypsa.org/latest/user-guide/optimization/stochastic/",
     "v1/index": "https://docs.pypsa.org/latest/user-guide/v1-guide/",
+    "modular-committable/index": "https://docs.pypsa.org/latest/user-guide/optimization/capacity-limits/#modular-components",
 }
