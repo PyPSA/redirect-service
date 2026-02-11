@@ -28,4 +28,7 @@ redirects = {
     "stoch-opt/index": "https://docs.pypsa.org/latest/user-guide/optimization/stochastic/",
     "v1/index": "https://docs.pypsa.org/latest/user-guide/v1-guide/",
     "modular-committable/index": "https://docs.pypsa.org/latest/user-guide/optimization/capacity-limits/#modular-components",
+    "transmission-losses/index": "https://docs.pypsa.org/latest/user-guide/optimization/power-flow/#loss-approximation",
+    "warning-attr-misleading/index": "https://docs.pypsa.org/latest/user-guide/warnings/#warning-attr-misleading",
+    "warning-attr-typo/index": "https://docs.pypsa.org/latest/user-guide/warnings/#warning-attr-typo",
 }
